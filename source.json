@@ -14,7 +14,8 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "VRCTools/VRCTEvent"
+        "VRCTools/VRCTEvent",
+        "VRCTools/VRCTWorldUtils"
     ],
     "packages":[]
 }
